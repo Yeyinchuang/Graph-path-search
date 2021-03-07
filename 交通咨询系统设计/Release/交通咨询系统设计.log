@@ -1,0 +1,7 @@
+﻿  Graphlnk.cpp
+  交通咨询系统设计.cpp
+交通咨询系统设计.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+交通咨询系统设计.cpp(124): error C2361: “default”标签跳过“mindist”的初始化操作
+  交通咨询系统设计.cpp(109): note: 参见“mindist”的声明
+交通咨询系统设计.cpp(124): error C2361: “default”标签跳过“v1”的初始化操作
+  交通咨询系统设计.cpp(108): note: 参见“v1”的声明
